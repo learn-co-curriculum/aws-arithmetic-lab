@@ -1,4 +1,4 @@
-# Review: Arithmetic Lab
+# Arithmetic Lab
 
 ## Learning Goals
 
