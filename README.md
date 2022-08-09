@@ -413,6 +413,8 @@ There are four challenges we need you to solve. Code your solution in
 `index.js`. We'll provide some brief instructions here, but you should really
 rely on the test failure messages to guide your code.
 
+> **HINT**: Don't remember how to run tests? First you must install the dependencies, then you can run the test command. If you don't remember the commands to do so, revisit the first assignment "Completing Your First Software Engineering Assignment". 
+
 ## Instructions
 
 1. Create a variable called `multiply` set to an equation that will multiply the
@@ -423,6 +425,8 @@ rely on the test failure messages to guide your code.
    remainder of dividing variable `num3` by `num4`; the remainder should be `4`.
 4. Create a variable called `max` that finds the highest number in a set; the
    value returned should be `20`.
+
+Don't forget to push your work up to your GitHub fork and submit the link to the Canvas assignment when you're done! Again, if you don't remember how to do so, revisit the first assignment "Completing Your First Software Engineering Assignment" for the instructions.
 
 ## Resources
 
